@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @adearriba-boku
-- 👀 I’m interested in #SoftwareDevelopment #SystemsArchitechture #DotNet #Azure 
-<!-- - 🌱 I’m currently learning ... -->
+- 👀 I’m interested in #SoftwareDevelopment #SystemsArchitechture #DotNet #Azure <!-- - 🌱 I’m currently learning ... -->
 - 💞️ I’m looking to collaborate on #SoftwareDevelopment #SystemsArchitechture #DotNet #Azure #SDKs
 - 📫 How to reach me alejandro.de.arriba@boku.com
 
